@@ -8,4 +8,5 @@ in Mathematica to download the main file.
 
 the interface looks like (please enable dynamics to make it work)
 
- [![Watch the video](https://github.com/Faye-LisH/0_plus_mesons/blob/main/interface.png)](https://github.com/Faye-LisH/0_plus_mesons/blob/main/usage.mp4)
+
+https://github.com/user-attachments/assets/16646392-ac27-4f7b-b3d7-538201e37406
